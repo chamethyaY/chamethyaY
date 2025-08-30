@@ -1,4 +1,5 @@
-💫 About Me:
+## 💫About me 
+
 🎓 Computer Science Student | 🔐 Python Java learning | 💻 Fullstack Development
 🔭 I’m actively building university projects and hands-on coding projects to strengthen my software development skills.  
 👯 I enjoy collaborating on projects that challenge me to learn new programming concepts and Cyber Security techniques.  
