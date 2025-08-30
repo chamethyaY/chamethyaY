@@ -1,4 +1,4 @@
-## 💫About me 
+### 💫About me 
 
 🎓 Computer Science Student | 🔐 Python Java learning | 💻 Fullstack Development
 🔭 I’m actively building university projects and hands-on coding projects to strengthen my software development skills.  
@@ -11,7 +11,8 @@
 
 ---
 
-##💻 Tech Stack:
+###💻 Tech Stack:
+
 ![Java](https://img.shields.io/badge/Java-blue?logo=java&style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-yellow?logo=python&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&style=for-the-badge)
@@ -29,23 +30,26 @@
 
 ---
 
-## 📂 Featured Projects
+### 📂 Featured Projects
+
 - **Banking App (Spring Boot + MySQL)** – CRUD operations with secure login  
 - **Student Gradebook System (Python)** – File handling, grade calculation  
 - **Library Management System (Java)** – OOP project with file handling  
 
 ---
 
-## 📫 Connect With Me
+###📫 Connect With Me
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/chamethya-yasodie-a8278a349/)
 
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
+
 ![Chamethya's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChamethyaYasodie&show_icons=true&theme=radical)
 
 ---
 
-⭐ *“Keep learning, keep building, and keep growing.”*
+###⭐ *“Keep learning, keep building, and keep growing.”*
 
