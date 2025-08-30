@@ -11,7 +11,7 @@
 
 ---
 
-#💻 Tech Stack:
+# 💻 Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-blue?logo=java&style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-yellow?logo=python&style=for-the-badge)
@@ -38,7 +38,8 @@
 
 ---
 
-#📫 Connect With Me
+# 📫 Connect With Me
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/chamethya-yasodie-a8278a349/)
 
