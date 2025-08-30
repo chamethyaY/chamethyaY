@@ -11,7 +11,7 @@
 
 ---
 
-## 🛠️ Skills
+##💻 Tech Stack:
 ![Java](https://img.shields.io/badge/Java-blue?logo=java&style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-yellow?logo=python&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&style=for-the-badge)
@@ -37,7 +37,8 @@
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: [Chamethya Yasodie](https://www.linkedin.com/in/chamethya-yasodie-a8278a349/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/chamethya-yasodie-a8278a349/)
+
 
 ---
 
