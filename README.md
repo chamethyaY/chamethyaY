@@ -1,4 +1,4 @@
-\<div align="center">
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,19,42,50&height=200&section=header&text=Chamethya%20Yadodie&fontSize=44&fontColor=fff&animation=twinkling&fontAlignY=34&desc=Fullstack%20Developer%20💻%20|%20Building%20mobile%20apps%20and%20web%20apps&descAlignY=56&descSize=15" width="100%"/>
 
@@ -10,7 +10,7 @@
 
 <br/><br/>
 
-# 🛠️ Core Technologies
+## 🛠️ Core Technologies
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white)
@@ -39,7 +39,7 @@
 
 ---
 
-# 🤝 Let's Connect
+## 🤝 Let's Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chamethyaY/chamethyaY)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chamethya-yasodie-a8278a349/)
