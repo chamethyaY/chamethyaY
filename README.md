@@ -42,12 +42,6 @@
 
 ---
 
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=chamethyaY&bg_color=0d1117&color=ff69b4&line=ff69b4&point=ffffff&area=true&hide_border=true" width="95%"/>
-</div>
-
----
-
 ## 🤝 Let's Connect
 
 <div align="center">
