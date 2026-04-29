@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,19,42,50&height=200&section=header&text=Chamethya%20Yasodie&fontSize=44&fontColor=fff&animation=twinkling&fontAlignY=34&desc=Fullstack%20Developer%20💻%20|%20Building%20mobile%20apps%20and%20web%20apps&descAlignY=56&descSize=15" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,24,35,42&height=200&section=header&text=Chamethya%20Yadodie&fontSize=44&fontColor=fff&animation=twinkling&fontAlignY=34&desc=Fullstack%20Developer%20💻%20|%20Building%20mobile%20apps%20and%20web%20apps&descAlignY=56&descSize=15" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=6000&size=20&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Chamethya+%F0%9F%91%8B;Fullstack+Developer+%F0%9F%9A%80;React+%7C+Node.js+%7C+TypeScript+%7C+MongoDB;Turning+ideas+into+real+products+%E2%9C%A8;Open+to+work+%F0%9F%92%BC" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=6000&size=20&pause=1000&color=00F2FE&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Chamethya+%F0%9F%91%8B;Fullstack+Developer+%F0%9F%9A%80;React+%7C+Node.js+%7C+TypeScript+%7C+MongoDB;Turning+ideas+into+real+products+%E2%9C%A8;Open+to+work+%F0%9F%92%BC" alt="Typing SVG"/>
 </a>
 
 </div>
@@ -56,7 +56,7 @@
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,19,42,50&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.app/api?type=waving&color=gradient&customColorList=10,24,35,42&height=100&section=footer" width="100%"/>
 
 *✨ "First, solve the problem. Then, write the code." — chamethya*
 </div>
