@@ -10,7 +10,7 @@
 
 <br/><br/>
 
-#<h1> Core Technologies</h1>
+# 🛠️ Core Technologies
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white)
@@ -39,7 +39,7 @@
 
 ---
 
-# <h1>Let's Connect</h1>
+# 🤝 Let's Connect
 
 <a href="https://github.com/chamethyaY/chamethyaY">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
