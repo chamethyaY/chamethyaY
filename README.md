@@ -9,8 +9,7 @@
 </div>
 
 <br/><br/>
-
-##<h1> Core Technologies</h1>
+<h1> Core Technologies</h1>
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white)
@@ -38,8 +37,7 @@
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 ---
-
-## <h1> Let's Connect </h1>
+<h1> Let's Connect </h1>
 
 <a href="https://github.com/chamethyaY/chamethyaY">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
