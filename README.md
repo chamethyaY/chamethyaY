@@ -16,22 +16,6 @@
 
 ---
 
-## 🌸 Hello, World!
-
-```typescript
-const chamethya = {
-  name:       "Chamethya Yassodie",
-  role:       "Fullstack Developer",
-  location:   "Sri Lanka 🇱🇰",
-  stack:      ["React", "Node.js", "TypeScript", "MongoDB"],
-  learning:   ["System Design", "AWS", "Docker"],
-  openTo:     "Fulltime roles & Open Source",
-  funFact:    "I make bugs disappear ✨"
-};
-```
-
----
-
 ## 🛠️ Core Technologies
 
 ### Frontend
