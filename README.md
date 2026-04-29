@@ -1,57 +1,130 @@
-# 💫About me 
+<div align="center">
 
-🎓 Computer Science Student | 🔐 Python Java learning | 💻 Fullstack Development
-🔭 I’m actively building university projects and hands-on coding projects to strengthen my software development skills.  
-👯 I enjoy collaborating on projects that challenge me to learn new programming concepts and Cyber Security techniques.  
-🤝 I’m open to advice and mentorship on secure coding practices, application development, and real-world problem solving.  
-🌱 Currently expanding my knowledge in Java, Python, Spring Boot, REST APIs, MySQL, and front-end technologies.  
-💬 Ask me about my experiences in Cyber Security, software development, and project-based learning.  
-⚡ Fun fact: I love exploring creative ways to solve coding problems and often learn best while experimenting with new tools and frameworks.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Chamethya%20Yassodie&fontSize=44&fontColor=fff&animation=twinkling&fontAlignY=34&desc=Fullstack%20Developer%20%F0%9F%92%BB%20%7C%20Building%20the%20Web%20from%20Pixel%20to%20Server&descAlignY=56&descSize=15" width="100%"/>
 
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Chamethya+%F0%9F%91%8B;Fullstack+Developer+%F0%9F%9A%80;React+%7C+Node.js+%7C+TypeScript+%7C+MongoDB;Turning+ideas+into+real+products+%E2%9C%A8;Open+to+work+%F0%9F%92%BC" alt="Typing SVG"/>
+</a>
 
----
+<br/><br/>
 
-# 💻 Tech Stack
+<img src="https://komarev.com/ghpvc/?username=chamethyaY&label=Profile+Views&color=ff69b4&style=flat-square"/>
+&nbsp;
+<img src="https://img.shields.io/github/followers/chamethyaY?label=Followers&style=flat-square&color=ff69b4&labelColor=1a1a2e"/>
 
-![Java](https://img.shields.io/badge/Java-blue?logo=java&style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-yellow?logo=python&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&style=for-the-badge)
-![HTML](https://img.shields.io/badge/HTML-red?logo=html5&style=for-the-badge)
-![CSS](https://img.shields.io/badge/CSS-blue?logo=css3&style=for-the-badge)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-green?style=for-the-badge)
-![MySQL](https://img.shields.io/badge/MySQL-blue?logo=mysql&style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&style=for-the-badge)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&style=for-the-badge)
-![Thymeleaf](https://img.shields.io/badge/Thymeleaf-red?style=for-the-badge)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&style=for-the-badge)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge)
-![Cyber Security](https://img.shields.io/badge/Cyber_Security-darkgreen?style=for-the-badge)
-
+</div>
 
 ---
 
-# 📂 Featured Projects
+## 🌸 Hello, World!
 
-- **Banking App (Spring Boot + MySQL)** – CRUD operations with secure login  
-- **Student Gradebook System (Python)** – File handling, grade calculation  
-- **Library Management System (Java)** – OOP project with file handling  
-
----
-
-# 📫 Connect With Me
-
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/chamethya-yasodie-a8278a349/)
-
-
----
-
-# 📊 GitHub Stats
-
-![Chamethya's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChamethyaYasodie&show_icons=true&theme=radical)
+```typescript
+const chamethya = {
+  name:       "Chamethya Yassodie",
+  role:       "Fullstack Developer",
+  location:   "Sri Lanka 🇱🇰",
+  stack:      ["React", "Node.js", "TypeScript", "MongoDB"],
+  learning:   ["System Design", "AWS", "Docker"],
+  openTo:     "Fulltime roles & Open Source",
+  funFact:    "I make bugs disappear ✨"
+};
+```
 
 ---
 
-# ⭐ *“Keep learning, keep building, and keep growing.”*
+## 🛠️ Core Technologies
 
+### Frontend
+![CSS3](https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+### Database & Cloud
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Tools & Design
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-A259FF?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3572A5?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+| ✦ Project | 📝 Description | 🛠️ Stack | 🔗 |
+|-----------|---------------|---------|-----|
+| **Project One** | Fullstack app with real-time features, auth & clean UI | React · Node.js · Socket.io | [Live](#) · [Repo](#) |
+| **Project Two** | REST API with role-based access control & full CRUD | NestJS · PostgreSQL · JWT | [Live](#) · [Repo](#) |
+| **Project Three** | Portfolio with smooth animations & dark mode | Next.js · Tailwind · Framer Motion | [Live](#) · [Repo](#) |
+| **Project Four** | E-commerce with cart, checkout & admin dashboard | TypeScript · MongoDB · Stripe | [Live](#) · [Repo](#) |
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=chamethyaY&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ff69b4&icon_color=ff69b4&text_color=c9d1d9&ring_color=ff69b4" height="165"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chamethyaY&layout=compact&hide_border=true&bg_color=0d1117&title_color=ff69b4&text_color=c9d1d9" height="165"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=chamethyaY&hide_border=true&background=0d1117&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4&sideLabels=ff69b4&dates=c9d1d9&sideNums=ffffff&currStreakNum=ffffff" width="68%"/>
+
+</div>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=chamethyaY&bg_color=0d1117&color=ff69b4&line=ff69b4&point=ffffff&area=true&hide_border=true" width="95%"/>
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=chamethyaY&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" width="100%"/>
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-chamethyaY-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chamethyaY)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Chamethya_Yassodie-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-ff69b4?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.vercel.app)
+[![Email](https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+
+</div>
+
+---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" width="100%"/>
+
+*✨ "First, solve the problem. Then, write the code." — chamethya*
+</div>
