@@ -42,21 +42,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-| ✦ Project | 📝 Description | 🛠️ Stack | 🔗 |
-|-----------|---------------|---------|-----|
-| **Project One** | Fullstack app with real-time features, auth & clean UI | React · Node.js · Socket.io | [Live](#) · [Repo](#) |
-| **Project Two** | REST API with role-based access control & full CRUD | NestJS · PostgreSQL · JWT | [Live](#) · [Repo](#) |
-| **Project Three** | Portfolio with smooth animations & dark mode | Next.js · Tailwind · Framer Motion | [Live](#) · [Repo](#) |
-| **Project Four** | E-commerce with cart, checkout & admin dashboard | TypeScript · MongoDB · Stripe | [Live](#) · [Repo](#) |
-
-</div>
-
----
-
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=chamethyaY&bg_color=0d1117&color=ff69b4&line=ff69b4&point=ffffff&area=true&hide_border=true" width="95%"/>
 </div>
