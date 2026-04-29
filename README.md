@@ -57,32 +57,8 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=chamethyaY&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ff69b4&icon_color=ff69b4&text_color=c9d1d9&ring_color=ff69b4" height="165"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chamethyaY&layout=compact&hide_border=true&bg_color=0d1117&title_color=ff69b4&text_color=c9d1d9" height="165"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=chamethyaY&hide_border=true&background=0d1117&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4&sideLabels=ff69b4&dates=c9d1d9&sideNums=ffffff&currStreakNum=ffffff" width="68%"/>
-
-</div>
-
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=chamethyaY&bg_color=0d1117&color=ff69b4&line=ff69b4&point=ffffff&area=true&hide_border=true" width="95%"/>
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=chamethyaY&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" width="100%"/>
 </div>
 
 ---
