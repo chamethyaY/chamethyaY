@@ -3,17 +3,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Chamethya%20Yassodie&fontSize=44&fontColor=fff&animation=twinkling&fontAlignY=34&desc=Fullstack%20Developer%20%F0%9F%92%BB%20%7C%20Building%20the%20Web%20from%20Pixel%20to%20Server&descAlignY=56&descSize=15" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Chamethya+%F0%9F%91%8B;Fullstack+Developer+%F0%9F%9A%80;React+%7C+Node.js+%7C+TypeScript+%7C+MongoDB;Turning+ideas+into+real+products+%E2%9C%A8;Open+to+work+%F0%9F%92%BC" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=6000&size=20&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Chamethya+%F0%9F%91%8B;Fullstack+Developer+%F0%9F%9A%80;React+%7C+Node.js+%7C+TypeScript+%7C+MongoDB;Turning+ideas+into+real+products+%E2%9C%A8;Open+to+work+%F0%9F%92%BC" alt="Typing SVG"/>
 </a>
 
 <br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=chamethyaY&label=Profile+Views&color=ff69b4&style=flat-square"/>
-&nbsp;
-<img src="https://img.shields.io/github/followers/chamethyaY?label=Followers&style=flat-square&color=ff69b4&labelColor=1a1a2e"/>
-
-</div>
-
 ---
 
 ## 🛠️ Core Technologies
