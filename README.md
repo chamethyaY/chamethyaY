@@ -6,11 +6,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=6000&size=20&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Chamethya+%F0%9F%91%8B;Fullstack+Developer+%F0%9F%9A%80;React+%7C+Node.js+%7C+TypeScript+%7C+MongoDB;Turning+ideas+into+real+products+%E2%9C%A8;Open+to+work+%F0%9F%92%BC" alt="Typing SVG"/>
 </a>
 
+</div>
+
 <br/><br/>
 
 ## 🛠️ Core Technologies
-
-<div align="center">
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white)
@@ -36,20 +36,13 @@
 ![Figma](https://img.shields.io/badge/Figma-A259FF?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
-</div>
-
 ---
 
 ## 🤝 Let's Connect
 
-<div align="center">
-
 [![GitHub](https://img.shields.io/badge/GitHub-chamethyaY-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chamethyaY)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Chamethya_Yassodie-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-ff69b4?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.vercel.app)
 [![Email](https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
-
-</div>
 
 ---
 
