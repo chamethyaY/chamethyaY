@@ -10,7 +10,7 @@
 
 <br/><br/>
 
-## 🛠️ Core Technologies
+<h1>Core Technologies</h1> 
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white)
@@ -38,8 +38,7 @@
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 ---
-
-## 🤝 Let's Connect
+<h1>Let's Connect</h1>
 
 <a href="https://github.com/chamethyaY/chamethyaY">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -58,5 +57,4 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,19,42,50&height=100&section=footer" width="100%"/>
 
-*✨ "First, solve the problem. Then, write the code." — chamethya*
 </div>
